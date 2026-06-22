@@ -127,3 +127,7 @@ open up localhost:
    - ECR_REPO
    - PINECONE_API_KEY
    - OPENAI_API_KEY
+
+## 🚀 Demo
+
+![Medical Chatbot Demo](assets/chatbot_demo.png)
